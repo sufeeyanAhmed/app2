@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-22T11:44:07.590Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="-ozsYUPAkP7m-aBwerTt" version="14.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-24T06:34:20.435Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="XzZmvmahcEYq39d7pihu" version="14.9.8" type="github">
   <diagram id="whp8y7LoMeyAkEey8Vx3" name="Page-1">
     <mxGraphModel dx="1182" dy="836" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -105,6 +105,9 @@
         <mxCell id="08xPflxwf2jpWXcSHeCm-63" value="Cloudwatch Event" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="453" y="-11" width="107" height="18" as="geometry" />
         </mxCell>
+        <mxCell id="08xPflxwf2jpWXcSHeCm-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="08xPflxwf2jpWXcSHeCm-68" target="08xPflxwf2jpWXcSHeCm-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="08xPflxwf2jpWXcSHeCm-68" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;strokeColor=#FF8000;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="557.5" y="311" width="76.5" height="93" as="geometry" />
         </mxCell>
@@ -192,11 +195,11 @@
         <mxCell id="08xPflxwf2jpWXcSHeCm-115" value="https://&lt;span style=&quot;color: rgb(22 , 25 , 31) ; font-family: &amp;#34;amazon ember&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px ; text-align: left&quot;&gt;pod.safexpress.com&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-125" y="381" width="171" height="19" as="geometry" />
         </mxCell>
-        <mxCell id="08xPflxwf2jpWXcSHeCm-116" value="VPC" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=#248814;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#AAB7B8;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="122" y="158" width="517" height="279" as="geometry" />
+        <mxCell id="08xPflxwf2jpWXcSHeCm-119" value="" style="points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#4D72F3;gradientDirection=north;fillColor=#3334B9;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.rds;" vertex="1" parent="1">
+          <mxGeometry x="672" y="318.5" width="78" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="08xPflxwf2jpWXcSHeCm-118" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#FF8000;strokeWidth=2;fillColor=none;align=center;" vertex="1" parent="1">
-          <mxGeometry x="48.5" y="1" width="632" height="578" as="geometry" />
+        <mxCell id="08xPflxwf2jpWXcSHeCm-121" value="PostgreSql server" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="667.5" y="396.5" width="105" height="18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
